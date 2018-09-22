@@ -1,2 +1,2 @@
 # vectra
-Album Management
+Music Album Management
